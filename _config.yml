@@ -35,3 +35,6 @@ year : "2023"
 
 #Favicon
 favicon: /assets/favicon.png
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
